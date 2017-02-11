@@ -121,9 +121,6 @@ Zeg'9 (CC BY-SA 3.0)
 
 tobyplowy (CC-BY-SA v3.0)
 	default_aspen_tree.png
-	default_book.png
-	default_bookshelf_slot.png
-	default_book_written.png
 	default_coral_brown.png
 	default_coral_orange.png
 	default_desert_cobble.png
