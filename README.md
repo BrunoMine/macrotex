@@ -15,8 +15,6 @@ philipbenr (WTFPL)
 
 Zeg'9 (CC BY-SA 3.0)
 	crack_anylength.png
-	default_cactus_side.png
-	default_cactus_top.png
 	default_chest_front.png
 	default_chest_lock.png
 	default_chest_side.png
@@ -195,7 +193,6 @@ tobyplowy (CC-BY-SA v3.0)
 	bucket_river_water.png
 	bucket_water.png
 	character.png
-	default_clay_brick.png
 	default_torch_on_floor.png
 	default_torch_on_floor_animated.png
 	flowers_waterlily.png
@@ -236,3 +233,5 @@ tobyplowy (CC-BY-SA v3.0)
 	doors_trapdoor_side.png
 	doors_trapdoor_steel.png
 	doors_trapdoor_steel_side.png
+	fire_basic_flame.png
+	fire_basic_flame_animated.png
