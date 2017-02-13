@@ -70,7 +70,6 @@ Zeg'9 (CC BY-SA 3.0)
 	farming_cotton_6.png
 	farming_cotton_7.png
 	farming_cotton_8.png
-	farming_cotton_seed.png
 	farming_flour.png
 	farming_soil.png
 	farming_soil_wet.png
@@ -84,7 +83,6 @@ Zeg'9 (CC BY-SA 3.0)
 	farming_wheat_6.png
 	farming_wheat_7.png
 	farming_wheat_8.png
-	farming_wheat_seed.png
 	flowers_dandelion_white.png
 	flowers_dandelion_yellow.png
 	flowers_geranium.png
@@ -235,3 +233,5 @@ tobyplowy (CC-BY-SA v3.0)
 	doors_trapdoor_steel_side.png
 	fire_basic_flame.png
 	fire_basic_flame_animated.png
+	farming_straw.png
+	default_meselamp.png
