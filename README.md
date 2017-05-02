@@ -19,7 +19,6 @@ Zeg'9 (CC BY-SA 3.0)
 	default_chest_lock.png
 	default_chest_side.png
 	default_chest_top.png
-	default_coal_block.png
 	default_cobble.png
 	default_desert_stone.png
 	default_desert_stone_brick.png
@@ -171,16 +170,10 @@ tobyplowy (CC-BY-SA v3.0)
 	xpanes_white.png
 	beds_bed.png
 	beds_bed_fancy.png
-	beds_bed_foot.png
-	beds_bed_head.png
-	beds_bed_side1.png
-	beds_bed_side2.png
 	beds_bed_side_bottom.png
 	beds_bed_side_bottom_r.png
 	beds_bed_side_top.png
 	beds_bed_side_top_r.png
-	beds_bed_top1.png
-	beds_bed_top2.png
 	beds_bed_top_bottom.png
 	beds_bed_top_top.png
 	beds_transparent.png
