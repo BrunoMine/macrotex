@@ -37,7 +37,6 @@ Zeg'9 (CC BY-SA 3.0)
 	default_lava_source_animated.png
 	default_leaves.png
 	default_mese_block.png
-	default_mese_crystal.png
 	default_mese_crystal_fragment.png
 	default_mossycobble.png
 	default_obsidian.png
@@ -59,8 +58,6 @@ Zeg'9 (CC BY-SA 3.0)
 	default_water.png
 	default_water_source_animated.png
 	default_water_flowing_animated.png
-	farming_bread.png
-	farming_cotton.png
 	farming_cotton_1.png
 	farming_cotton_2.png
 	farming_cotton_3.png
@@ -69,11 +66,9 @@ Zeg'9 (CC BY-SA 3.0)
 	farming_cotton_6.png
 	farming_cotton_7.png
 	farming_cotton_8.png
-	farming_flour.png
 	farming_soil.png
 	farming_soil_wet.png
 	farming_soil_wet_side.png
-	farming_wheat.png
 	farming_wheat_1.png
 	farming_wheat_2.png
 	farming_wheat_3.png
@@ -158,10 +153,9 @@ tobyplowy (CC-BY-SA v3.0)
 	vessels_drinking_glass.png
 	vessels_drinking_glass_inv.png
 	vessels_glass_bottle.png
-	vessels_glass_fragments.png
-	vessels_shelf.png
-	vessels_shelf_slot.png
-	vessels_steel_bottle.png
+	vessels_glass_fragments.png (Modificado)
+	vessels_shelf.png (Modificado)
+	vessels_shelf_slot.png (Modificado)
 	xpanes_bar.png
 	xpanes_bar_top.png
 	xpanes_grey.png
@@ -214,15 +208,15 @@ tobyplowy (CC-BY-SA v3.0)
 	doors_blank.png
 	doors_door_glass.png
 	doors_door_obsidian_glass.png
-	doors_door_steel.png
+	doors_door_steel.png (Modificado)
 	doors_door_wood.png
 	doors_item_glass.png
 	doors_item_obsidian_glass.png
 	doors_item_steel.png
 	doors_item_wood.png
-	doors_trapdoor.png
+	doors_trapdoor.png (Modificado)
 	doors_trapdoor_side.png
-	doors_trapdoor_steel.png
+	doors_trapdoor_steel.png (Modificado)
 	doors_trapdoor_steel_side.png
 	fire_basic_flame.png
 	fire_basic_flame_animated.png
