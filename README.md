@@ -184,7 +184,7 @@ tobyplowy (CC-BY-SA v3.0)
 	fire_flint_steel.png
 	doors_blank.png
 	doors_door_glass.png
-	doors_door_obsidian_glass.png
+	doors_door_obsidian_glass.png (Modificado)
 	doors_door_steel.png (Modificado)
 	doors_door_wood.png
 	doors_item_glass.png
