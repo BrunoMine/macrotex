@@ -23,11 +23,6 @@ Zeg'9 (CC BY-SA 3.0)
 	default_desert_stone.png
 	default_desert_stone_brick.png
 	default_dirt.png
-	default_furnace_front.png
-	default_furnace_front_active.png
-	default_furnace_side.png
-	default_furnace_top.png
-	default_gold_block.png
 	default_grass_side.png
 	default_jungleleaves.png
 	default_jungletree.png
@@ -135,21 +130,8 @@ tobyplowy (CC-BY-SA v3.0)
 	screwdriver.png
 	tnt_blast.png
 	tnt_boom.png
-	tnt_bottom.png
-	tnt_gunpowder_burning_crossing_animated.png
-	tnt_gunpowder_burning_curved_animated.png
-	tnt_gunpowder_burning_straight_animated.png
-	tnt_gunpowder_burning_t_junction_animated.png
-	tnt_gunpowder_crossing.png
-	tnt_gunpowder_curved.png
 	tnt_gunpowder_inventory.png
-	tnt_gunpowder_straight.png
-	tnt_gunpowder_t_junction.png
-	tnt_side.png
 	tnt_smoke.png
-	tnt_top.png
-	tnt_top_burning.png
-	tnt_top_burning_animated.png
 	vessels_drinking_glass.png
 	vessels_drinking_glass_inv.png
 	vessels_glass_bottle.png
@@ -157,11 +139,6 @@ tobyplowy (CC-BY-SA v3.0)
 	vessels_shelf.png (Modificado)
 	vessels_shelf_slot.png (Modificado)
 	xpanes_bar.png
-	xpanes_bar_top.png
-	xpanes_grey.png
-	xpanes_pane_half.png
-	xpanes_space.png
-	xpanes_white.png
 	beds_bed.png
 	beds_bed_fancy.png
 	beds_bed_side_bottom.png
